@@ -1,0 +1,2 @@
+# MottiBot
+Raspberry Piのカメラモジュールで撮影した写真をTweetするプログラム
